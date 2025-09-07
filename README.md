@@ -16,7 +16,7 @@ It includes a **clean hexagon logo with a rounded "N"** (drawn in SVG, no extern
 
 ## SVG Code for NGINX logo
 
-<img width="310" height="310" alt="nginxmysvglogo" src="https://github.com/user-attachments/assets/fe6a23d5-66ba-4475-abea-77bc3e418637" />
+<img width="300" height="300" alt="nginxmysvglogo" src="https://github.com/user-attachments/assets/fe6a23d5-66ba-4475-abea-77bc3e418637" />
 
 ```
 <svg viewBox="0 0 512 512" width="64" height="64" xmlns="http://www.w3.org/2000/svg" aria-label="NGINX logo">
@@ -30,5 +30,7 @@ It includes a **clean hexagon logo with a rounded "N"** (drawn in SVG, no extern
 ---
 
 ## index.html
+<img alt="nginx-index-page-new" src="https://github.com/user-attachments/assets/9957512e-ee7f-478c-9179-3b5066818a9e" />
 
-<img width="1053" height="702" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/80adf8f1-e935-4e72-b65d-a2ab717e569c" />
+## 50x.html
+<img alt="nginx-50x-page-new" src="https://github.com/user-attachments/assets/b79cb781-5b7c-40c3-b9f2-2b973f240390" />
