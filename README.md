@@ -5,12 +5,12 @@ It includes a **clean hexagon logo with a rounded "N"** (drawn in SVG, no extern
 
 ---
 
-## ✨ Features
-- ✅ Pure HTML + CSS + SVG (no external dependencies)
-- ✅ Dark/Light mode support
-- ✅ Centred and responsive layout
-- ✅ Custom SVG NGINX-style hexagon logo with rounded "N"
-- ✅ Lightweight and blazing fast (2,595 bytes)
+## Features
+- Pure HTML + CSS + SVG (no external dependencies)
+- Dark/Light mode support
+- Centred and responsive layout
+- Custom SVG NGINX-style hexagon logo with rounded "N"
+- Lightweight and blazing fast (<5 kb Combine)
 
 ---
 
