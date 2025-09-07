@@ -1,6 +1,6 @@
 # Custom NGINX Welcome Page
 
-This project replaces the default **nginx `index.html`** with a modern, lightweight, and professional-looking landing page.  
+This project replaces the default **nginx `index.html`** and **`50x.html`** with a modern, lightweight, and professional-looking landing page.  
 It includes a **clean hexagon logo with a rounded "N"** (drawn in SVG, no external images) and responsive styling.
 
 ---
